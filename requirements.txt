@@ -1,0 +1,19 @@
+# requirements.txt
+
+# This project uses only Python's standard library modules.
+# No external packages need to be installed via pip.
+#
+# Required Python Version: 3.8+
+# Required Modules (Standard Library):
+# - tkinter (and tkinter.ttk, tkinter.filedialog, tkinter.messagebox, tkinter.font)
+# - sqlite3
+# - os
+# - sys
+# - csv
+# - configparser
+# - time
+# - platform
+# - collections
+#
+# Ensure your Python installation includes Tkinter support.
+# (See README.md for details on installing Tkinter if necessary).
