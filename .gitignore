@@ -1,0 +1,53 @@
+# .gitignore
+
+# Python cache files and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+# Virtual environment folders (common names)
+venv/
+.venv/
+env/
+.env/
+ENV/
+.ENV/
+env.bak/
+venv.bak/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor configuration folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+logs/
+
+# Runtime files / User configuration specific to this app
+.sqlite_viewer.ini
+
+# Example databases (if you add one but don't want it tracked by default)
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Secrets / Environment variables (if you were to add any)
+# .env
+
+# Backup files
+*.bak
+*.swp
+*~
